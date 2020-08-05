@@ -1,11 +1,11 @@
-Data Description
-File descriptions
-train.csv - the training set
-test.csv - the test set
-data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
-sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
-Data fields
-Here's a brief version of what you'll find in the data description file.
+Data Description \n
+File descriptions\n
+train.csv - the training set \n
+test.csv - the test set \n
+data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here \n
+sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms \n
+Data fields\n
+Here's a brief version of what you'll find in the data description file.\n
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 MSSubClass: The building class
